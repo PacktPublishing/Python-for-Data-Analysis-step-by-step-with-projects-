@@ -1,0 +1,77 @@
+district_id,district_name,region,population,average_salary,unemployment_rate,num_committed_crimes
+1,Hl.m. Praha,Prague,1204953,12541.0,0.43,99107.0
+2,Benesov,central Bohemia,88884,,,2674.0
+3,Beroun,central Bohemia,75232,8980.0,2.21,2813.0
+4,Kladno,central Bohemia,149893,9753.0,5.05,
+5,Kolin,central Bohemia,95616,9307.0,4.43,
+6,Kutna Hora,central Bohemia,77963,8546.0,4.02,3120.0
+7,Melnik,central Bohemia,94725,,2.87,4846.0
+8,Mlada Boleslav,central Bohemia,112065,,1.44,4987.0
+9,Nymburk,central Bohemia,81344,8899.0,3.97,2487.0
+10,Praha - vychod,central Bohemia,92084,10124.0,0.54,
+11,Praha - zapad,central Bohemia,75637,9622.0,,3529.0
+12,Pribram,central Bohemia,107870,8754.0,4.31,3868.0
+13,Rakovnik,central Bohemia,53921,,3.26,1875.0
+14,Ceske Budejovice,south Bohemia,177686,10045.0,1.71,6295.0
+15,Cesky Krumlov,south Bohemia,58796,,3.6,1879.0
+16,Jindrichuv Hradec,south Bohemia,93931,8427.0,1.54,1913.0
+17,Pelhrimov,south Bohemia,74062,8114.0,2.62,1181.0
+18,Pisek,south Bohemia,70699,8968.0,3.35,1910.0
+19,Prachatice,south Bohemia,51428,8402.0,3.98,1099.0
+20,Strakonice,south Bohemia,70646,8547.0,3.64,1542.0
+21,Tabor,south Bohemia,103347,9104.0,2.07,2354.0
+22,Domazlice,west Bohemia,58400,8620.0,1.25,1117.0
+23,Cheb,west Bohemia,87419,8624.0,2.66,3198.0
+24,Karlovy Vary,west Bohemia,122603,8991.0,2.01,5273.0
+25,Klatovy,west Bohemia,88757,8554.0,2.68,2218.0
+26,Plzen - mesto,west Bohemia,170449,10787.0,,6261.0
+27,Plzen - jih,west Bohemia,67298,8561.0,1.29,1127.0
+28,Plzen - sever,west Bohemia,72541,8594.0,2.01,1525.0
+29,Rokycany,west Bohemia,45714,8843.0,3.6,888.0
+30,Sokolov,west Bohemia,94812,,3.67,2804.0
+31,Tachov,west Bohemia,51313,,4.2,1452.0
+32,Ceska Lipa,north Bohemia,105058,9272.0,3.22,4505.0
+33,Decin,north Bohemia,133777,8705.0,7.61,4859.0
+34,Chomutov,north Bohemia,125236,9675.0,7.68,5190.0
+35,Jablonec n. Nisou,north Bohemia,88768,8867.0,,3620.0
+36,Liberec,north Bohemia,159617,9198.0,4.28,6132.0
+37,Litomerice,north Bohemia,114006,9065.0,5.39,4166.0
+38,Louny,north Bohemia,85852,8965.0,,2822.0
+39,Most,north Bohemia,119895,10446.0,9.4,4743.0
+40,Teplice,north Bohemia,128118,9317.0,7.07,
+41,Usti nad Labem,north Bohemia,118650,9832.0,4.48,
+42,Havlickuv Brod,east Bohemia,95907,8388.0,2.94,1668.0
+43,Hradec Kralove,east Bohemia,161854,9425.0,2.5,3891.0
+44,Chrudim,east Bohemia,105606,8254.0,3.76,2325.0
+45,Jicin,east Bohemia,77917,8390.0,,2122.0
+46,Nachod,east Bohemia,112709,8369.0,2.31,2618.0
+47,Pardubice,east Bohemia,162580,9538.0,,5410.0
+48,Rychnov nad Kneznou,east Bohemia,78955,9060.0,2.44,1717.0
+49,Semily,east Bohemia,75685,8208.0,2.26,
+50,Svitavy,east Bohemia,102609,8187.0,5.45,2134.0
+51,Trutnov,east Bohemia,121947,8541.0,2.97,3839.0
+52,Usti nad Orlici,east Bohemia,139012,8363.0,3.49,
+53,Blansko,south Moravia,107911,8240.0,3.56,1903.0
+54,Brno - mesto,south Moravia,387570,,1.96,18696.0
+55,Brno - venkov,south Moravia,157042,,2.43,3894.0
+56,Breclav,south Moravia,124605,8772.0,,3158.0
+57,Hodonin,south Moravia,161954,8720.0,4.5,3651.0
+58,Jihlava,south Moravia,109164,8757.0,3.95,2471.0
+59,Kromeriz,south Moravia,108871,8444.0,3.47,2305.0
+60,Prostejov,south Moravia,110643,8441.0,4.48,2252.0
+61,Trebic,south Moravia,117897,8814.0,5.74,2059.0
+62,Uherske Hradiste,south Moravia,145688,8544.0,1.86,2906.0
+63,Vyskov,south Moravia,86513,8288.0,4.52,1460.0
+64,Zlin,south Moravia,197099,9624.0,,4265.0
+65,Znojmo,south Moravia,114200,8403.0,5.72,2718.0
+66,Zdar nad Sazavou,south Moravia,125832,8512.0,4.12,2103.0
+67,Bruntal,north Moravia,106054,8110.0,6.55,3079.0
+68,Frydek - Mistek,north Moravia,228848,9893.0,4.72,
+69,Jesenik,north Moravia,42821,8173.0,7.01,
+70,Karvina,north Moravia,285387,10177.0,7.75,10108.0
+71,Novy Jicin,north Moravia,161227,8678.0,5.57,4595.0
+72,Olomouc,north Moravia,226122,,4.79,9208.0
+73,Opava,north Moravia,182027,8746.0,3.74,4433.0
+74,Ostrava - mesto,north Moravia,323870,10673.0,5.44,18347.0
+75,Prerov,north Moravia,138032,8819.0,5.66,4505.0
+76,Sumperk,north Moravia,127369,8369.0,,2807.0
